@@ -1,0 +1,2 @@
+code03-btn:code05-tortoise:show_msg:wheelchair_bed/dht_sensor:wheelchair_bed/wheelchair_bed:wheelchair_bed/wheelchair_bed_sensors:wheelchair_bed_control:wheelchair_bed_msgs:wheelchair_bed_ui
+-DCATKIN_DEVEL_PREFIX=/home/aibot/wheelchair_bed/devel -DCMAKE_INSTALL_PREFIX=/home/aibot/wheelchair_bed/install -G Unix Makefiles

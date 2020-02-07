@@ -1,0 +1,11 @@
+.\output\timer.o: User\src\timer.c
+.\output\timer.o: .\User\inc\timer.h
+.\output\timer.o: .\System\stm32f10x.h
+.\output\timer.o: .\System\core_cm3.h
+.\output\timer.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\timer.o: .\System\system_stm32f10x.h
+.\output\timer.o: .\User\inc\usart.h
+.\output\timer.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\timer.o: .\Modbus\inc\volmeter.h
+.\output\timer.o: .\GU900\inc\gu900.h
+.\output\timer.o: .\User\inc\delay.h

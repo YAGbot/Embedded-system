@@ -1,0 +1,8 @@
+prefix=/home/aibot/wheelchair_bed/install
+
+Name: wheelchair_bed_msgs
+Description: Description of wheelchair_bed_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

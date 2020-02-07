@@ -1,0 +1,16 @@
+.\output\main.o: User\src\main.c
+.\output\main.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\main.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\output\main.o: .\User\inc\sys.h
+.\output\main.o: .\System\stm32f10x.h
+.\output\main.o: .\System\core_cm3.h
+.\output\main.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\main.o: .\System\system_stm32f10x.h
+.\output\main.o: .\User\inc\delay.h
+.\output\main.o: .\User\inc\usart.h
+.\output\main.o: .\Modbus\inc\rs485.h
+.\output\main.o: .\Modbus\inc\volmeter.h
+.\output\main.o: .\GU900\inc\gu900_uart.h
+.\output\main.o: .\GU900\inc\gu900.h
+.\output\main.o: .\User\inc\timer.h
+.\output\main.o: .\Modbus\inc\modbus_timer.h

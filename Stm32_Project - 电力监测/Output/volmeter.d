@@ -1,0 +1,12 @@
+.\output\volmeter.o: Modbus\src\volmeter.c
+.\output\volmeter.o: .\Modbus\inc\volmeter.h
+.\output\volmeter.o: .\System\stm32f10x.h
+.\output\volmeter.o: .\System\core_cm3.h
+.\output\volmeter.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\volmeter.o: .\System\system_stm32f10x.h
+.\output\volmeter.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\volmeter.o: .\User\inc\usart.h
+.\output\volmeter.o: .\User\inc\delay.h
+.\output\volmeter.o: .\Modbus\inc\rs485.h
+.\output\volmeter.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\output\volmeter.o: .\GU900\inc\gu900_uart.h

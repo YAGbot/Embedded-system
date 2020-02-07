@@ -1,0 +1,27 @@
+
+/*用于截取接收来自服务器的字符串，将下发的ip地址与端口号截取出来
+  如果收到的数据有一定的数据头 可以用strncpy()函数将*/
+#include <stdio.h>  
+#include <string.h>  
+void split(char str[],char delims[])
+{
+    char *result[8] ={0}; 
+    int i=0;
+    result[i] = strtok( str, delims );  
+    while( result[i] != NULL ) 
+	{  
+		if(strstr(result[i],"0")!=NULL)
+		{
+			break;
+		}
+    	printf( "result is \"%s\"\n", result[i] );
+		i++; 
+    	result[i] = strtok( NULL, delims );  
+    }  
+}
+int main()  
+{  
+    char str[] = "192.168.1.22,192.168.1.23,192.168.1.24,0,NULL";  
+    char delims[] = ",";  
+	split(str,delims);
+}  

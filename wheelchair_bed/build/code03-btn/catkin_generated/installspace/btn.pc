@@ -1,0 +1,8 @@
+prefix=/home/aibot/wheelchair_bed/install
+
+Name: btn
+Description: Description of btn
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,9 @@
+.\output\modbus_timer.o: Modbus\src\modbus_timer.c
+.\output\modbus_timer.o: .\Modbus\inc\modbus_timer.h
+.\output\modbus_timer.o: .\System\stm32f10x.h
+.\output\modbus_timer.o: .\System\core_cm3.h
+.\output\modbus_timer.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\output\modbus_timer.o: .\System\system_stm32f10x.h
+.\output\modbus_timer.o: .\Modbus\inc\rs485.h
+.\output\modbus_timer.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\output\modbus_timer.o: .\User\inc\usart.h

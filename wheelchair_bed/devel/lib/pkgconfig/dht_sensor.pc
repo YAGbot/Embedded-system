@@ -1,0 +1,8 @@
+prefix=/home/aibot/wheelchair_bed/devel
+
+Name: dht_sensor
+Description: Description of dht_sensor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

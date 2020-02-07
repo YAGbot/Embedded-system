@@ -1,0 +1,26 @@
+<package>
+  <name>wheelchair_bed</name>
+  <version>2.4.2</version>
+  <description>
+    The wheelchair_bed meta package provides all the basic drivers for running and using a Wheelchair_bed.
+  </description>
+  <author>Aiguo</author>
+
+  <maintainer email="280203283@qq.com">Daniel Stonier</maintainer>
+
+  <license>BSD</license>
+  <url type="website">https://github.com/YAGbot/Wheelchair_bed</url>
+  <url type="repository">https://github.com/YAGbot/Wheelchair_bed/Wheelchair_bed</url>
+  <url type="bugtracker">https://github.com/YAGbot/Wheelchair_bed/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>wheelchair_bed_bringup</run_depend>
+  <run_depend>wheelchair_bed_capabilities</run_depend>
+  <run_depend>wheelchair_bed_description</run_depend>
+  <run_depend>wheelchair_bed_teleop</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

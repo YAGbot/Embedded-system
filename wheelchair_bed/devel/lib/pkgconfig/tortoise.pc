@@ -1,0 +1,8 @@
+prefix=/home/aibot/wheelchair_bed/devel
+
+Name: tortoise
+Description: Description of tortoise
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

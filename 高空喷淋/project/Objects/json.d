@@ -1,0 +1,9 @@
+.\objects\json.o: ..\drivers\w5500\json.c
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\json.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\json.o: ..\drivers\MQTT\cJSON.h

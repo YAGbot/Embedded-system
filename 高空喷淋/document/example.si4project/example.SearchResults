@@ -1,0 +1,39 @@
+---- [recv_tftp_packet] Server IP faults Matches (0 in 0 files) ----
+---- [recv_tftp_packet] Server IP faults Search Errors Encountered (36) ----
+The following 36 files could not be processed:
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\at24cxx\at24cxx.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\at24cxx\at24cxx.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\beep\beep.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\beep\beep.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\i2c\i2c.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\i2c\i2c.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\project\JLinkLog.txt : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\key\key.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\key\key.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\led\led.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\led\led.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\arp\m_arp.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\arp\m_arp.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\dhcp\m_dhcp.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\dhcp\m_dhcp.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\dns\m_dns.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\dns\m_dns.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\init\m_init.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\init\m_init.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\ntc\ntc.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\ntc\ntc.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\example\ping.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\relay\relay.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\relay\relay.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\sd\sd.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\sd\sd.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\sp485\sp485.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\sp485\sp485.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\timer\timer.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\timer\timer.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\can\vp230.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\can\vp230.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\w25qxx\w25qxx.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\w25qxx\w25qxx.h : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\wdg\wdg.c : File could not be opened.
+C:\Users\Administrator\Desktop\E-NET W5500源码\e-net example\drivers\wdg\wdg.h : File could not be opened.

@@ -1,0 +1,8 @@
+prefix=/home/aibot/wheelchair_bed/install
+
+Name: wheelchair_bed_control
+Description: Description of wheelchair_bed_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
